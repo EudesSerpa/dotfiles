@@ -1,0 +1,9 @@
+# Written by Herdr into every mod folder on start
+gpui-kit.d.ts
+jsconfig.json
+
+# Backups made by the install scripts or by hand
+*.backup-*
+*.bak
+
+.DS_Store
